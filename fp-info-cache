@@ -1,15 +1,15 @@
-3345797486786
-Shield_Emergent
-LDD-700L
-
-
+3398416520882
+Audio_Module
+Reverb_BTDR-1H
+Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
+audio belton reverb
 0
-5
-5
-Shield_Emergent
-SOT-23
-SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOT TO_SOT_SMD
+7
+7
+Audio_Module
+Reverb_BTDR-1V
+Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
+audio belton reverb
 0
-3
-3
+7
+7
