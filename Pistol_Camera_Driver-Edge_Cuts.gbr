@@ -1,11 +1,11 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.2)*%
-%TF.CreationDate,2024-02-06T23:57:53+03:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
+%TF.CreationDate,2024-04-16T22:37:01+03:00*%
 %TF.ProjectId,Pistol_Camera_Driver,50697374-6f6c-45f4-9361-6d6572615f44,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Profile,NP*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.2)) date 2024-02-06 23:57:53*
+G04 Created by KiCad (PCBNEW 7.0.9) date 2024-04-16 22:37:01*
 %MOMM*%
 %LPD*%
 G01*
@@ -17,10 +17,7 @@ G04 APERTURE END LIST*
 D10*
 X24850000Y-31600000D02*
 X113200000Y-31600000D01*
-X113200000Y-31600000D02*
 X113200000Y-77700000D01*
-X113200000Y-77700000D02*
 X24850000Y-77700000D01*
-X24850000Y-77700000D02*
 X24850000Y-31600000D01*
 M02*
